@@ -8,7 +8,7 @@ const projects =  [
         image: "/projects/WatchHub.png",
         tags: ["EJS", "Node.js", "Express", "MongoDB", "Bootstrap"],
         liveUrl: "#",
-        githubUrl: "#"
+        githubUrl: "https://github.com/Shyam-Shaji/WatchHub"
     },
     {
         id: 2,
