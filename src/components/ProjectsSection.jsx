@@ -25,8 +25,8 @@ const projects =  [
         description: "A recipe application that allows users to search for recipes and view detailed information about each recipe.",
         image: "/projects/Recipies.png",
         tags: ["React", "Tailwind CSS", "DaisyUI", "Axios", "TheMealDB API"],
-        liveUrl: "#",
-        githubUrl: "#"
+        liveUrl: "https://weather-app-ig9f.vercel.app/",
+        githubUrl: "https://github.com/Shyam-Shaji/Recipe-App"
     }
 ]
 
