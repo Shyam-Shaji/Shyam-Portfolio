@@ -27,6 +27,15 @@ const projects =  [
         tags: ["React", "Tailwind CSS", "DaisyUI", "Axios", "TheMealDB API"],
         liveUrl: "https://weather-app-ig9f.vercel.app/",
         githubUrl: "https://github.com/Shyam-Shaji/Recipe-App"
+    },
+    {
+        id: 4,
+        title: "Finance Tracker",
+        description: "A finance tracking application that allows users to track their income and expenses.",
+        image: "/projects/FinTrack.png",
+        tags: ["React", "Tailwind CSS", "Shadcn UI", "TypeScript", "TanStack Query", "Demo Data"],
+        liveUrl: "https://fin-track-umber-zeta.vercel.app/",
+        githubUrl: "https://github.com/Shyam-Shaji/Fin-Track"
     }
 ]
 
