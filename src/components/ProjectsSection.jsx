@@ -16,7 +16,7 @@ const projects =  [
         description: "A weather application that provides real-time weather information for any location.",
         image: "/projects/WeatherApp.png",
         tags: ["React", "Tailwind CSS", "Shadcn UI", "TypeScript", "TanStack Query", "OpenWeather API"],
-        liveUrl: "https://weather-app-mocha-alpha-20.vercel.app/",
+        liveUrl: "https://weather-app-2r7w.onrender.com/",
         githubUrl: "https://github.com/Shyam-Shaji/weather-app"
     },
     {
